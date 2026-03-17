@@ -379,3 +379,31 @@
   font-size: 0.78rem;
   color: var(--sv-text-muted);
 }
+
+/* ---------- Product banner (top of every page) ---------- */
+.sv-product-banner {
+  background: var(--sv-sidebar-bg);
+  border-bottom: 1px solid var(--sv-border);
+  text-align: center;
+  padding: 7px 16px;
+  font-size: 0.78rem;
+  color: var(--sv-text-muted);
+  position: sticky;
+  top: 0;
+  z-index: 30;
+}
+
+.sv-product-banner strong {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+
+.sv-product-banner a {
+  color: var(--vp-c-brand-1);
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.sv-product-banner a:hover {
+  text-decoration: underline;
+}
