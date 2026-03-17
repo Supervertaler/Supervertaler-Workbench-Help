@@ -380,6 +380,16 @@
   color: var(--sv-text-muted);
 }
 
+/* ---------- Doc images ---------- */
+.vp-doc img {
+  border: 1px solid var(--sv-border);
+  border-radius: 10px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.07);
+  max-width: 100%;
+  display: block;
+  margin: 1.5rem 0;
+}
+
 /* ---------- Product banner (top of every doc page) ---------- */
 .sv-product-banner {
   background: var(--sv-sidebar-bg);

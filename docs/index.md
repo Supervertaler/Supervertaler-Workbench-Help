@@ -4,6 +4,8 @@ Supervertaler Workbench is a standalone desktop CAT (Computer-Assisted Translati
 
 Supervertaler Workbench gives you AI-powered translation, full translation memory, terminology management, quality assurance, and import/export for common file formats — all in one application, without a subscription.
 
+![Supervertaler Workbench](https://supervertaler.com/screenshots/Supervertaler_v1.9.329_Term_and_NT_insert_popup.png)
+
 ---
 
 ## Key Features
