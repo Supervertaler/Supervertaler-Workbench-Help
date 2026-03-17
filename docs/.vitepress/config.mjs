@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Supervertaler Workbench',
+  title: 'Supervertaler Workbench Help',
   description: 'Help documentation for Supervertaler Workbench',
   lang: 'en-GB',
 
