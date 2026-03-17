@@ -7,7 +7,7 @@ export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
-      'layout-top': () => h(ProductBanner)
+      'doc-before': () => h(ProductBanner)
     })
   }
 }

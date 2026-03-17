@@ -380,13 +380,14 @@
   color: var(--sv-text-muted);
 }
 
-/* ---------- Product banner (top of every page) ---------- */
+/* ---------- Product banner (top of every doc page) ---------- */
 .sv-product-banner {
   background: var(--sv-sidebar-bg);
-  border-bottom: 1px solid var(--sv-border);
-  text-align: center;
-  padding: 7px 16px;
-  font-size: 0.78rem;
+  border: 1px solid var(--sv-border);
+  border-radius: 8px;
+  padding: 8px 14px;
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
   color: var(--sv-text-muted);
 }
 
