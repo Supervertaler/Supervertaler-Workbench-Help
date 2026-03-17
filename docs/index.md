@@ -6,8 +6,6 @@ Supervertaler Workbench gives you AI-powered translation, full translation memor
 
 ![Supervertaler Workbench](https://supervertaler.com/screenshots/Supervertaler_v1.9.329_Term_and_NT_insert_popup.png)
 
----
-
 ## Key Features
 
 ### AI Translation
