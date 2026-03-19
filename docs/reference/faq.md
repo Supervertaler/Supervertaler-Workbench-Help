@@ -1238,10 +1238,12 @@ Michael Beijer, a professional translator, created Supervertaler to:
 - Termbases: `user_data/resources/`
 - All data remains on your machine
 
-**No Telemetry:**
-- Supervertaler collects NO usage data
-- No analytics, no tracking
-- Open source: Verify in source code yourself
+**Opt-In Usage Statistics:**
+- Supervertaler can optionally send anonymous usage statistics (app version, OS, locale)
+- Strictly opt-in — you choose on first launch, and can change it anytime in Settings
+- No personal data, translation content, or termbase info is ever collected
+- Open source: Review the [usage statistics code](https://github.com/Supervertaler/Supervertaler-Workbench/blob/main/modules/usage_statistics.py) yourself
+- See [Usage Statistics](../settings/usage-statistics.md) for full details
 
 **Best Practices for Sensitive Content:**
 - Review AI provider data policies before using

@@ -153,6 +153,7 @@ export default defineConfig({
           { text: 'Theme', link: '/settings/theme' },
           { text: 'View', link: '/settings/view' },
           { text: 'Keyboard Shortcuts', link: '/settings/shortcuts' },
+          { text: 'Usage Statistics', link: '/settings/usage-statistics' },
         ]
       },
       {
