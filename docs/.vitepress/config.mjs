@@ -17,8 +17,8 @@ export default defineConfig({
     siteTitle: 'Supervertaler Workbench Help',
 
     nav: [
-      { text: 'supervertaler.com', link: 'https://supervertaler.com' },
-      { text: 'GitHub', link: 'https://github.com/michaelbeijer/Supervertaler' },
+      { text: 'supervertaler.com', link: 'https://supervertaler.com/workbench/' },
+      { text: 'GitHub', link: 'https://github.com/Supervertaler/Supervertaler-Workbench' },
       { text: 'michaelbeijer.co.uk', link: 'https://michaelbeijer.co.uk' },
     ],
 
