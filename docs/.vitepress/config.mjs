@@ -173,6 +173,7 @@ export default defineConfig({
         items: [
           { text: 'Changelog', link: '/reference/changelog' },
           { text: 'FAQ', link: '/reference/faq' },
+          { text: 'User Data Folder', link: '/reference/user-data-folder' },
           { text: 'File Formats', link: '/reference/file-formats' },
           { text: 'Contributing', link: '/reference/contributing' },
         ]
