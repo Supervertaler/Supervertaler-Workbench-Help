@@ -29,6 +29,7 @@ Master these shortcuts to work faster in Supervertaler.
 | `Ctrl+A` | Select all (in cell) |
 | `Shift+Enter` | Insert line break inside a cell |
 | `Ctrl+,` | Insert next tag / wrap selection with a tag pair (when available) |
+| `Ctrl+Alt+T` | Cycle tag view mode: Tags → Compact → WYSIWYG |
 
 ## Translation
 
