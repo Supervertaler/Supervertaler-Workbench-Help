@@ -64,7 +64,7 @@ export default defineConfig({
           { text: 'Prompt Library', link: '/ai-translation/prompt-library' },
           { text: 'Supported Providers', link: '/ai-translation/providers' },
           { text: 'Ollama (Local AI)', link: '/ai-translation/ollama' },
-          { text: 'Quick Launcher', link: '/ai-translation/quicklauncher' },
+          { text: 'Supervertaler Assistant', link: '/ai-translation/quicklauncher' },
         ]
       },
       {
